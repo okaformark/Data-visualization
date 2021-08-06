@@ -2,6 +2,8 @@
 
 ## Libraries used includes matplotlib, pandas, seaborn, bokeh, plotly
 
-![Seaborns Heatmap](https://github.com/okaformark/Data-visualization/blob/main/graph.png)
+![Seaborns Heatmap](https://github.com/okaformark/Data-visualization/blob/main/heatmap.png)
 
-![matplot lib plot]
+![matplotlib plot](https://github.com/okaformark/Data-visualization/blob/main/graph.png)
+
+![polynomial regression](https://github.com/okaformark/Data-visualization/blob/main/plots.png)
